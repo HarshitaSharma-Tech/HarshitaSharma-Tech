@@ -89,13 +89,6 @@ const harshita = {
   <img height="200" src="https://raw.githubusercontent.com/HarshitaSharma-Tech/HarshitaSharma-Tech/main/coder%20girl.jpg" alt="Coder Girl" />
 </div>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-
----
-
-Hello there! I thrive on building connections with diverse individuals and professionals. If you're interested in connecting, feel free to reach out – I'm always open to meeting new people!
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Hello there! I thrive on building connections with diverse individuals and professionals. If you're interested in connecting, feel free to reach out – I'm always open to meeting new people!
 Looking forward to connecting with you!
-
-
 ### 
